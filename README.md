@@ -1,13 +1,11 @@
 # Pybugger
 
-An easy to use color debugging tool for python
-
-
+An easy to use color debugging tool for **Python3**.
 
 ### How do I start using it?
 
 ##### Method 1
-`pip install pybugger`
+`pip3 install pybugger`
 
 ##### Method 2
 - Download the Pybugger folder from here
