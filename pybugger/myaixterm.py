@@ -3,8 +3,9 @@
 
 import itertools
 import csv
+import os
 
-_DEF_COLOR_FN='myaixterm-db.txt'
+_DEF_COLOR_FN= 'myaixterm-db.txt'
 
 aix_colors={}
 
@@ -35,7 +36,7 @@ def aix_normal():
     return '\033[0m'
 
 def aix_init(fn=_DEF_COLOR_FN):
-    with open(fn,'r') as fd:
+    with open(os.path.join(os.path.dirname(__file__), fn)) as fd:
         reallines=itertools.filterfalse(lambda r: r.startswith('#'), fd)
         for row in csv.DictReader(reallines,
                                     fieldnames=['r','g','b','n'],

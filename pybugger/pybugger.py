@@ -1,5 +1,5 @@
-import myaixterm
 import random
+from pybugger import myaixterm
 
 color = myaixterm
 
