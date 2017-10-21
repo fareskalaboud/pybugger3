@@ -89,4 +89,4 @@ An easy to use color debugging tool for python
 ![](/image/cornflowerblue.png)|cornflowerblue|![](/image/flirt3.png)|flirt3|![](/image/canary.png)|canary|![](/image/gallery.png)|gallery
 
 ### Dependencies:
-– [myaixterm.py](https://stackoverflow.com/a/46851467/2188011), by [@cxw42](https://github.com/cxw42)
+- [myaixterm.py](https://stackoverflow.com/a/46851467/2188011), by [@cxw42](https://github.com/cxw42)
