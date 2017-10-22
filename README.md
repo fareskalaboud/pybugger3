@@ -2,7 +2,7 @@
 
 An easy to use color debugging tool for **Python3**.
 
-*Looking for a tool for Python2? Check out [Pybugger2](https://github.com/fareskalaboud/pybugger2).*
+##### *Looking for a tool for Python2? Check out [Pybugger2](https://github.com/fareskalaboud/pybugger2).*
 
 ### How do I start using it?
 
