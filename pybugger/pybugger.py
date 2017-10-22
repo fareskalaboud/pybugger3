@@ -83,9 +83,10 @@ def inverted(*args):
     """Format the arguments with a black foreground and white background."""
     print(string_constructor(args, "black", "white"))
 
-def custom(args, fg="normal", bg="normal"):
+def custom(*args, delimiter='', fg="normal", bg="normal"):
     """Format the single argument with a custom foreground and background."""
-    print(string_constructor(args, fg, bg))
+    debug_str = delimiter.join(args)
+    print(string_constructor(debug_str, fg, bg))
 
 def test():
     """A test method to print out examples."""
