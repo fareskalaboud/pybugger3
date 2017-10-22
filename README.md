@@ -12,7 +12,7 @@ An easy to use color debugging tool for **Python3**.
 ##### Method 2
 - Download the Pybugger folder from here
 - Put it in your project folder.
-- At the start of your file, add `import pybugger`
+- At the start of your file, add `from pybugger import pybugger`
 - Start using Pybugger!
 
 ### What can I do with Pybugger?
