@@ -84,7 +84,7 @@ def inverted(*args):
     print(string_constructor(args, "black", "white"))
 
 def custom(*args, delimiter='', fg="normal", bg="normal"):
-    """Format the single argument with a custom foreground and background."""
+    """Format the arguments with a custom foreground and background."""
     debug_str = delimiter.join(args)
     print(string_constructor(debug_str, fg, bg))
 
