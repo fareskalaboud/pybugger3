@@ -15,6 +15,8 @@ An easy to use color debugging tool for **Python3**.
 
 ### What can I do with Pybugger?
 
+You can test pybugger by running `pybugger.test()`, but here it is below in action.
+
 ![](https://i.imgur.com/2VqHoFt.png)
 
 ### What colours are available?
