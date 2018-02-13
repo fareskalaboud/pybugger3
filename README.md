@@ -92,3 +92,7 @@ You can test pybugger by running `pybugger.test()`, but here it is below in acti
 
 ### Dependencies:
 - [myaixterm.py](https://stackoverflow.com/a/46851467/2188011), by [@cxw42](https://github.com/cxw42)
+
+### Contributors 
+- [@fareskalaboud](https://github.com/fareskalaboud) (Author)
+- [@theelous3](https://github.com/theelous3) for 
