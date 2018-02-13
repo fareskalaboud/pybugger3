@@ -95,4 +95,4 @@ You can test pybugger by running `pybugger.test()`, but here it is below in acti
 
 ### Contributors 
 - [@fareskalaboud](https://github.com/fareskalaboud) (Author)
-- [@theelous3](https://github.com/theelous3) for 
+- [@theelous3](https://github.com/theelous3)
