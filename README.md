@@ -6,10 +6,6 @@ An easy to use color debugging tool for **Python3**.
 
 ### How do I start using it?
 
-##### Method 1
-`pip3 install pybugger`
-
-##### Method 2
 - Download the Pybugger folder from here
 - Put it in your project folder.
 - At the start of your file, add `from pybugger import pybugger`
